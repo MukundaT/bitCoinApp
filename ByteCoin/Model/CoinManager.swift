@@ -19,7 +19,8 @@ struct CoinManager {
     let bitCoinKey = "?apikey=141EBA10-3384-4129-8540-99E4A66AA15A"
     
     
-    let currencyArray = ["----" ,"AUD", "BRL","CAD","CNY","EUR","GBP","HKD","IDR","ILS","INR","JPY","MXN","NOK","NZD","PLN","RON","RUB","SEK","SUD","MUK","SGD","USD","ZAR"]
+    let currencyArray = ["----" ,"AUD", "BRL","CAD","CNY","EUR","GBP","HKD","IDR","ILS","INR","JPY","MXN","NOK","NZD","PLN","RON","RUB","SEK","SUD","MUK"
+        ,"SAG","SGD","USD","ZAR"]
     
     
     
